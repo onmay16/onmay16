@@ -1,2 +1,20 @@
 * {cursor: url(https://cur.cursors-4u.net/cursors/cur-2/cur113.cur), auto !important;}
-
+body {
+    width: fit-content;
+    /* align-content: center; */
+}
+h4 {https://github.com/onmay16/onmay16/blob/main/readme.css
+    font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block;
+    /* align-content: center; */
+    width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    /* text-align: center; */
+    /* align-self: center; */
+}
+div {
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: fit-content;
+}
