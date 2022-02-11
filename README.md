@@ -12,7 +12,6 @@
             <a href=""><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ffffff"/></a>
             <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/></a>
 </p>
-<br>
 <h3 align="center">🔥 More about me?</h3>
 <p align="center">
             <a href="https://github.com/onmay16" target="_blank"><img src="https://img.shields.io/badge/GitHub-24282e?style=flat-square&logo=GitHub&logoColor=ffffff"/></a>
