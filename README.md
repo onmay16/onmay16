@@ -4,9 +4,12 @@
             <a href=""><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/></a>
             <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/></a>
             <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/></a>
+            <a href=""><img src="https://img.shields.io/badge/JavaScript-092E20?style=flat-square&logo=Django&logoColor=ffffff"/></a>
             <a href=""><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/></a>
+            <a href=""><img src="https://img.shields.io/badge/React-092E20?style=flat-square&logo=Django&logoColor=ffffff"/></a>
             <a href=""><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=ffffff"/></a>
             <a href=""><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ffffff"/></a>
+            <a href=""><img src="https://img.shields.io/badge/MySQL-092E20?style=flat-square&logo=Django&logoColor=ffffff"/></a>
 </p>
 <br>
 <h3 align="center">🔥 More about me?</h3>
