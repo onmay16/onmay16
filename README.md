@@ -11,6 +11,14 @@
             <a href=""><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=ffffff"/></a>
             <a href=""><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ffffff"/></a>
             <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/></a>
+            <br>
+            <a href=""><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff"/></a>
+            <a href=""><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/></a>
+            <a href=""><img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=ffffff"/></a>
+            <a href=""><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=ffffff"/></a>
+            
+            
+
 </p>
 <h3 align="center">🔥 More about me?</h3>
 <p align="center">
