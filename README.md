@@ -22,9 +22,9 @@
 </p>
 <h3 align="center">🔥 More about me?</h3>
 <p align="center">
-            <a href="https://github.com/onmay16" target="_blank"><img src="https://img.shields.io/badge/GitHub-24282e?style=flat-square&logo=GitHub&logoColor=ffffff"/></a>
-            <a href="https://www.linkedin.com/in/sugyeong-hong-01a04317a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/></a>
-            <a href="mailto:onmay16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Sugyeong/May-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
-            <a href="https://www.instagram.com/espacedemay/" target="_blank"><img src="https://img.shields.io/badge/espacedemay-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
+            <a href="https://github.com/onmay16" target="_blank"><img src="https://img.shields.io/badge/GitHub-24282e?style=flat&logo=GitHub&logoColor=ffffff"/></a>
+            <a href="https://www.linkedin.com/in/sugyeong-hong-01a04317a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=ffffff"/></a>
+            <a href="mailto:onmay16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Sugyeong/May-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/></a>
+            <a href="https://www.instagram.com/espacedemay/" target="_blank"><img src="https://img.shields.io/badge/espacedemay-E4405F?style=flat&logo=Instagram&logoColor=ffffff"/></a>
 </p>
 
